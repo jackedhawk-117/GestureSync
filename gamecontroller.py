@@ -37,8 +37,8 @@ PROFILES = {
 # --- General Configuration ---
 CAM_WIDTH = 1280
 CAM_HEIGHT = 720
-GESTURE_COOLDOWN_FRAMES = 8
-ACTION_COOLDOWN_SECONDS = 1.5
+GESTURE_COOLDOWN_FRAMES = 4
+ACTION_COOLDOWN_SECONDS = 0.8
 
 # --- Initialization ---
 print("Initializing gesture controller...")
