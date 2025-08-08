@@ -5,40 +5,37 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+###  Name: Janish Saji
 
 
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+
 
 ### Project Description
-[2-3 lines about what your project does]
-
+estureSync is a Python application that uses a standard webcam to translate real-world hand and face gestures into in-game keyboard and mouse actions. It has unique gestures for each game
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Improved immersion factor for less immersive games
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+GestureSync liberates your hands! By using advanced computer vision to track hand and face landmarks, it allows you to cast spells, issue tactical commands, and call your horse with nothing but a flick of the wrist . 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Languages used]:Python
+- [Frameworks used]:None
+- [Libraries used]:OpemCV,Mediapipe,pynput,Numpy
+- [Tools used]:PyInstaller
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [List main components]:Webcam
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+1.pip install opencv-python mediapipe pynput numpy
+2.python gamecontroller.py
+   or
+1.got to /dists and run the exe
 
 # Run
 [commands]
