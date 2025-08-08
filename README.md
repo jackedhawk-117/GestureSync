@@ -43,14 +43,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="1741" height="782" alt="image" src="https://github.com/user-attachments/assets/65260409-3228-40fa-8dbe-fc613845ad7d" />
+<img width="1676" height="753" alt="image" src="https://github.com/user-attachments/assets/848d2a25-dcf4-45e5-927c-445d23321b79" />
+
+<img width="1583" height="900" alt="image" src="https://github.com/user-attachments/assets/bac75b3d-1bbf-431d-8b80-0f464c90113a" />
 
 *closed fist sends a keystroke of middle mouse button causing the commands menu to open,the program the then detects the number of raised fingers to send commands,for examples:if you raise 1 finger it sends the first order in the command menu*
 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+
 
 For Hardware:
 
