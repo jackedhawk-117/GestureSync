@@ -21,13 +21,12 @@ GestureSync liberates your hands! By using advanced computer vision to track han
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]:Python
-- [Frameworks used]:None
-- [Libraries used]:OpemCV,Mediapipe,pynput,Numpy
-- [Tools used]:PyInstaller
+- Python
+- OpenCV,Mediapipe,pynput,Numpy
+- PyInstaller
 
 For Hardware:
-- [List main components]:Webcam
+- Webcam
 
 ### Implementation
 For Software:
