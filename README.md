@@ -1,7 +1,7 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# GestureSync 🎯
 
 
 ## Basic Details
@@ -11,7 +11,7 @@
 
 
 ### Project Description
-estureSync is a Python application that uses a standard webcam to translate real-world hand and face gestures into in-game keyboard and mouse actions. It has unique gestures for each game
+GestureSync is a Python application that uses a standard webcam to translate real-world hand and face gestures into in-game keyboard and mouse actions. It has unique gestures for each game
 ### The Problem (that doesn't exist)
 Improved immersion factor for less immersive games
 
