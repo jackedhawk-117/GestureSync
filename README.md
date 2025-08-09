@@ -47,7 +47,36 @@ For Software:
 
 <img width="1583" height="900" alt="image" src="https://github.com/user-attachments/assets/bac75b3d-1bbf-431d-8b80-0f464c90113a" />
 
-*closed fist sends a keystroke of middle mouse button causing the commands menu to open,the program the then detects the number of raised fingers to send commands,for examples:if you raise 1 finger it sends the first order in the command menu*
+*closed fist sends a keystroke of middle mouse button causing the commands menu to open,the program the then detects the number of raised fingers to send commands,for examples:if you raise 1 finger it sends the first order in the command menu.This is a summarised list of all commands:
+The Witcher 3 Profile
+This profile uses specific, named hand shapes to perform actions:
+
+Call Roach: Touch your index finger to your mouth, as if you are whistling.
+
+Quen Sign: Touch the tips of your thumb and index finger together to make a circle, with your other three fingers extended.
+
+Aard Sign: Extend your index and middle fingers straight, with all other fingers curled in.
+
+Igni Sign: Make a fist and extend your thumb outwards (a "thumbs-up").
+
+Axii Sign: Extend your thumb and index finger to make an 'L' shape, with other fingers curled in.
+
+Ready or Not Profile
+This profile uses a two-step system for issuing commands:
+
+Open Command Menu: First, make a closed fist (zero fingers extended). This opens the command menu in the game.
+
+Select Command: After the menu is open, hold up the required number of fingers to issue a specific command:
+
+Command 1: Hold up one finger.
+
+Command 2: Hold up two fingers.
+
+Command 3: Hold up three fingers.
+
+Command 4: Hold up four fingers.
+
+Command 5: Hold up five fingers (an open palm).*
 
 
 
