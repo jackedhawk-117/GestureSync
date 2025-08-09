@@ -16,7 +16,7 @@ GestureSync is a Python application that uses a standard webcam to translate rea
 Improved immersion factor for less immersive games
 
 ### The Solution (that nobody asked for)
-GestureSync liberates your hands! By using advanced computer vision to track hand and face landmarks, it allows you to cast spells, issue tactical commands, and call your horse with nothing but a flick of the wrist . 
+GestureSync improves immersion using your hands! By using advanced computer vision to track hand and face landmarks, it allows you to cast spells, issue tactical commands, and call your horse with nothing but a flick of the wrist . 
 
 ## Technical Details
 ### Technologies/Components Used
